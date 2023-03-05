@@ -8,7 +8,7 @@ As a data scientist at the bank, it is imperative to build a model that helps th
 ## Data Source:
 
 * Kaggle
-https://www.kaggle.com/datasets/teertha/personal-loan-modeling?select=Bank_Personal_Loan_Modelling.csvhttps://www.kaggle.com/datasets/teertha/personal-loan-modeling?select=Bank_Personal_Loan_Modelling.csv
+https://www.kaggle.com/datasets/teertha/personal-loan-modeling?select=Bank_Personal_Loan_Modelling.csv
 
 ## Jupyter Notebook
 
